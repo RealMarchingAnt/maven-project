@@ -1,1 +1,17 @@
 target
+webapp/.project
+webapp/.settings/org.eclipse.m2e.core.prefs
+webapp/.settings/org.eclipse.jdt.core.prefs
+webapp/.settings/org.eclipse.jdt.apt.core.prefs
+.project
+server/.project
+.settings/org.eclipse.core.resources.prefs
+.settings/org.eclipse.m2e.core.prefs
+server/.classpath
+webapp/.settings/org.eclipse.core.resources.prefs
+webapp/.classpath
+server/.settings/org.eclipse.m2e.core.prefs
+server/.settings/org.eclipse.jdt.core.prefs
+server/.settings/org.eclipse.jdt.apt.core.prefs
+server/.settings/org.eclipse.core.resources.prefs
+.vscode/launch.test.json
